@@ -8,3 +8,6 @@ A scraper that crawl and scrape the South Park episodes details in an excel data
 
 # Selecting seasons:
 > Select a season in main website and paste in scraper.py module and run the script.
+
+
+@ Scrape responsibly:
