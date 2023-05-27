@@ -1,0 +1,9 @@
+main_content: li.item.full-ep.css-q2f74n-Wrapper.e19yuxbf0
+show_more_button: button[type='button']
+
+episode_num: h2[role='heading']
+episode_name: h3.text.css-161tfdw-StyledSubHeader.e3775fq0
+episode_plot: div.deck span
+episode_air_date: div.meta span
+episode_link: a
+episode_thumbnail: div.media div.content picture.image-holder.image-holder--raw source
